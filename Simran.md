@@ -1,3 +1,3 @@
 HELLO MY NAME IS SIMRAN. I AM TRYING TO COLAB THIS FILE WITH MY REPOSITORY.
 HAVE A GOOD DAY :)
-hello evryone! my name is simran.
+hello evryone!
